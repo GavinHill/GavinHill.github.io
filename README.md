@@ -1,8 +1,6 @@
 # Gavin's Blog
 
-Welcome to: https://gavinhill.github.io/  
-I am greatly honored by your gracious presence.  
-您的光临，不胜荣幸。  
+welcome to enjoy my blog: https://gavinhill.github.io/
   
 This repository is the property of Gavin.  
   
